@@ -1,0 +1,7 @@
+media_list.toml
+.env
+trakt_import_list.csv
+venv/
+__pycache__/
+*.pyc
+*.pyo
