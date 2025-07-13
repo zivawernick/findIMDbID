@@ -17,7 +17,7 @@ if OMDB_API_KEY is None:
     print("Error: OMDb API Key not found. Please ensure it's set in your .env file as OMDB_API_KEY.")
     exit()
     
-MEDIA_LIST_FILE = "sampleMedia.toml" # The name of your TOML file
+MEDIA_LIST_FILE = "media_list.toml" # The name of your TOML file
 
 output_csv_filename = "trakt_import_list.csv"
 
